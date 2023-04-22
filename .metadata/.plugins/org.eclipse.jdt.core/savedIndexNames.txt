@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\msi\Desktop\prosit java\PrositJava\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

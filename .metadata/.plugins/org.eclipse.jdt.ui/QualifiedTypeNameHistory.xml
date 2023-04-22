@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="Revision_Zoo.Zoo"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.entities.Zoo"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.entities.Lion"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.entities.Dauphin"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.entities.Perroquet"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.main.AnimalType"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.entities.Animal"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.entities.singe"/>
+    <fullyQualifiedTypeName name="tn.esprit.gestionzoo.exceptions.FullZooException"/>
+</qualifiedTypeNameHistroy>
